@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+li,h1,ul{
+    display: inline;
+    
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: grey;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+.box{
+    margin-top: 90px;
+    width: 300px;
+    border: 2px;
+    border-style: solid;
+    display: inline-block
+    
+    
+}
+.products{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    margin-top: 20px;
+}
